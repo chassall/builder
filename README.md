@@ -18,6 +18,16 @@ Extra
 - Blocking
 - Components
 
+# Tutorial
+- Adding a routine (instructions)
+- Adding a component (stimuli)
+- Controlling the flow (trial loop)
+- Loading a file (trial specification)
+- Recording responses
+- Adding blocks
+- Changing experiment settings
+- Adding custom code
+
 # Extras
 - Hosting online (Pavlovia)
 - Recruiting participants (Prolific)
