@@ -18,7 +18,7 @@ Extra
 - Blocking
 - Components
 
-# Tutorial
+# Tutorial
 - Adding a routine (instructions)
 - Adding a component (stimuli)
 - Controlling the flow (trial loop)
