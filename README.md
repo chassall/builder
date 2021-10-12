@@ -5,6 +5,7 @@
 
 # Resources
 Essential
+- Installation: https://www.psychopy.org/download.html
 - Online documentation: https://www.psychopy.org/builder/
 - Video tutorial: https://www.youtube.com/watch?v=VV6qhuQgsiI
 
