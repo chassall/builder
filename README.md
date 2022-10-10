@@ -12,6 +12,7 @@ Essential
 Extra
 - Pavlovia for hosting online: https://pavlovia.org/
 - Prolific for recruiting online participants: https://prolific.co/
+- Copyright-free vector images: https://pixabay.com/vectors/ 
 
 # Builder Concepts
 - Routine
