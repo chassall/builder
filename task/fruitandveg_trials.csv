@@ -1,0 +1,13 @@
+﻿fileName,condition,corrAns,isWeird
+images/grapes.png,fruit,f,no
+images/strawberry.png,fruit,f,no
+images/cherry.png,fruit,f,no
+images/pepper.png,fruit,f,yes
+images/tomato.png,fruit,f,yes
+images/cucumber.png,fruit,f,yes
+images/beet.png,veg,j,no
+images/broccoli.png,veg,j,no
+images/carrot.png,veg,j,no
+images/lettuce.png,veg,j,no
+images/onion.png,veg,j,no
+images/radish.png,veg,j,no
