@@ -28,10 +28,9 @@ Extra
 - Specifying trial types (loading a CSV)
 - Recording response information
 
-# Extras
-- Modify experiment settings
-- Adding blocks
-- Loading images
-- Adding custom code
-- Hosting online (Pavlovia)
-- Recruiting participants (Prolific)
+# Activities
+- Add blocks to this experiment using flanker_blocks.csv
+- Make a task with images using fruitandveg_trials.csv
+- Download/run/modify an existing task on https://pavlovia.org/
+- Upload a task to https://pavlovia.org/
+- Write your own Python code by adding a "Code" component in Builder
