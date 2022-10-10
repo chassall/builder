@@ -30,5 +30,6 @@ Extra
 - Adding custom code
 
 # Extras
+- Loading images
 - Hosting online (Pavlovia)
 - Recruiting participants (Prolific)
