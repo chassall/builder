@@ -22,14 +22,15 @@ Extra
 # Tutorial
 - Adding a routine (instructions)
 - Adding a component (stimuli)
+- Listening for input (keyboard)
 - Controlling the flow (trial loop)
-- Loading a file (trial specification)
-- Recording responses
-- Adding blocks
-- Changing experiment settings
-- Adding custom code
+- Specifying trial types (loading a CSV)
+- Recording response information
 
 # Extras
+- Modify experiment settings
+- Adding blocks
 - Loading images
+- Adding custom code
 - Hosting online (Pavlovia)
 - Recruiting participants (Prolific)
